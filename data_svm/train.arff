@@ -1,0 +1,53 @@
+@RELATION training
+@ATTRIBUTE 'document' numeric
+@ATTRIBUTE 'word' numeric
+@ATTRIBUTE 'weight' numeric
+@ATTRIBUTE 'class' {'relevant','not_relevant'}
+@data
+1,109,4.69,relevant
+2,123,4.81,relevant
+3,122,4.81,relevant
+4,76,4.69,relevant
+5,79,4.71,relevant
+6,82,4.64,relevant
+7,116,4.69,relevant
+8,127,4.93,relevant
+9,185,4.71,relevant
+10,111,4.66,relevant
+11,89,4.83,relevant
+12,139,5.13,relevant
+13,197,4.04,relevant
+14,101,5.08,relevant
+15,141,5.08,relevant
+16,77,4.66,relevant
+17,70,4.66,relevant
+18,89,4.89,relevant
+19,79,4.81,relevant
+20,69,4.71,relevant
+21,90,4.71,relevant
+22,116,4.78,relevant
+23,162,4.91,relevant
+24,125,4.93,relevant
+25,96,3.94,relevant
+26,94,4.0,relevant
+27,124,4.71,relevant
+28,57,4.69,relevant
+29,71,4.71,relevant
+30,164,5.16,relevant
+31,80,4.93,relevant
+32,127,4.91,relevant
+33,87,4.93,relevant
+34,300,4.04,relevant
+35,189,5.83,relevant
+36,72,4.69,relevant
+37,184,5.33,relevant
+38,64,4.66,relevant
+39,190,5.37,relevant
+40,208,4.93,relevant
+41,116,4.95,relevant
+42,189,5.83,relevant
+43,57,4.64,relevant
+44,240,5.13,relevant
+45,87,4.97,relevant
+46,76,4.69,relevant
+47,105,4.78,relevant

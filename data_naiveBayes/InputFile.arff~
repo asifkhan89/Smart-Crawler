@@ -1,0 +1,17 @@
+@RELATION training
+@ATTRIBUTE 'document' numeric
+@ATTRIBUTE 'word' numeric
+@ATTRIBUTE 'weight' numeric
+@ATTRIBUTE 'class' {'relevant','not_relevant'}
+@data
+1,215,4.0,relevant
+2,102,3.4,relevant
+3,130,4.04,relevant
+4,115,4.26,relevant
+5,80,3.08,relevant
+6,41,2.39,not_relevant
+7,135,4.04,relevant
+8,208,4.0,relevant
+9,52,2.61,not_relevant
+10,382,5.03,relevant
+11,54,3.3,relevant

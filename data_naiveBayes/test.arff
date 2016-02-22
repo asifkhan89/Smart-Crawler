@@ -1,0 +1,21 @@
+@RELATION testing
+@ATTRIBUTE 'document' real
+@ATTRIBUTE 'word' real
+@ATTRIBUTE 'weight' real
+@ATTRIBUTE 'class' {'relevant','not_relevant'}
+@data
+1,102,3.4,?
+2,130,4.04,?
+3,80,3.08,?
+4,126,3.94,?
+5,41,2.39,?
+6,187,4.09,?
+7,145,4.04,?
+8,215,4.0,?
+9,115,4.26,?
+10,135,4.04,?
+11,208,4.0,?
+12,144,4.47,?
+13,52,2.61,?
+14,382,5.03,?
+15,54,3.3,?

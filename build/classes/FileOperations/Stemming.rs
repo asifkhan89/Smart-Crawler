@@ -1,0 +1,2 @@
+FileOperations.Stemming
+FileOperations.NewString
